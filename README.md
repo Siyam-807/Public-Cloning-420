@@ -5,7 +5,7 @@
 git clone https://github.com/Siyam-807/Public-CloNing-420
 
 cd Public-CloNing-420
-python Tutul.py
+python Siyam.py
 
 Note: (This ToOLs Are Paid, So 
 You Need Permission To Use)
